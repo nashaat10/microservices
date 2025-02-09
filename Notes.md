@@ -13,7 +13,7 @@
 ## Monolith Architecture
 
 - monolith architecture: all the code is in one place
-- A monolith contains (Routes, Middlewares, Business Logic, Database Access)
+- A monolith contains (Routes, Middlewares, Business Logic, Database Access
 
 ## Database management between services
 
